@@ -1,0 +1,17 @@
+.changePic{
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.changePic div{
+    padding: 15px 80px;
+}
+
+.upload-btn{
+    cursor: pointer;
+    background: none;
+    border: none;
+    font-weight: bolder;
+    font-size: 15px;
+
+}
